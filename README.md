@@ -1,6 +1,6 @@
-![6tP56pItsgrpwSmqHqPd](https://github.com/qadwetzjd/qadwetzjd/assets/154912382/5214c1ac-7485-4c2e-943c-aeb06cab69c1)
+![title](https://github.com/qadwetzjd/qadwetzjd/assets/154912382/5214c1ac-7485-4c2e-943c-aeb06cab69c1)
 ### Hi there 👋😎
-
+~~The world is flat.~~
 <!--
 **qadwetzjd/qadwetzjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
