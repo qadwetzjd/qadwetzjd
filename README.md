@@ -1,7 +1,7 @@
 ![title](https://github.com/qadwetzjd/qadwetzjd/assets/154912382/5214c1ac-7485-4c2e-943c-aeb06cab69c1)
 ### Hi there 👋😎
-~~The world is flat.~~
 
+<!--
 **qadwetzjd/qadwetzjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**这是我用github制作的第一个页面**
+**我还有好多不懂的，但是打算慢慢来，摸索一下，啾咪**
